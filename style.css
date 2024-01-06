@@ -1,0 +1,43 @@
+h1{
+  padding-left: 20px;
+}
+b{
+  font-size: 35px;
+  padding-right: 160px;       
+}
+pre{
+  font-size: 20px;
+  margin-bottom: -20px;
+}
+header {
+  text-align: center;
+  background-color: #d0d8cb;
+  padding: 5px;
+  border-radius: 30px;
+  width: 75em;
+  height: 435em;
+  margin-left: 125px;
+}
+body{
+  background-color:#FBFBFB;
+}
+p{
+  margin-top: -25px;
+  padding: auto;
+  font-size: 18px;
+  padding-right: 75px;
+}
+img {
+  display: block; /* Для центрирования по горизонтали */
+  margin-left: auto; /* Устанавливаем отступ слева в auto */
+  margin-right: 275px; /* Устанавливаем отступ справа в 0 */
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 1);
+  width: 500px;
+  height: 500px;
+  transition: margin-left 0.5s ease; /* Добавляем плавный переход для анимации */
+}
+body{
+  background-color: #F0F9CF;
+}
